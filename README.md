@@ -2,10 +2,6 @@
 
 A simple yet fun implementation of the classic **Tic-Tac-Toe** game built with **React**. Play as X or O and compete with a friend in the browser!
 
-## 📸 Demo
-
-![Tic Tac Toe Screenshot](./screenshot.png) <!-- Replace with actual screenshot path if available -->
-
 ## 🛠️ Tech Stack
 
 - React (Functional Components & Hooks)
@@ -36,6 +32,21 @@ tic-tac-toe/
 ├── package.json
 └── README.md
 
+```
+tic-tac-toe/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   └── Square.js
+│   ├── App.js
+│   ├── Board.js
+│   ├── index.js
+│   └── App.css
+├── package.json
+├── README.md
+└── .gitignore
+```
 
 ## 🧑‍💻 How to Run Locally
 
