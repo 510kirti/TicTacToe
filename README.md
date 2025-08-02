@@ -16,22 +16,6 @@ A simple yet fun implementation of the classic **Tic-Tac-Toe** game built with *
 - ✨ Simple and clean UI
 
 ## 📁 Project Structure
-
-<pre> ``` tic-tac-toe/ ├── public/ │ └── index.html ├── src/ │ ├── components/ │ │ └── Square.js │ ├── App.js │ ├── Board.js │ ├── index.js │ └── App.css ├── package.json └── README.md ``` </pre>
-
-tic-tac-toe/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   └── Square.js
-│   ├── App.js
-│   ├── Board.js
-│   ├── index.js
-│   └── App.css
-├── package.json
-└── README.md
-
 ```
 tic-tac-toe/
 ├── public/
